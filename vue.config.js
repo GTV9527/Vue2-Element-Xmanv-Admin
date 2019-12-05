@@ -40,8 +40,8 @@ const cdn = {
 
 
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/permission/" : "/",
-  outputDir: './dist',
+  publicPath: process.env.NODE_ENV === "production" ? "/" : "/",
+  outputDir: './www',
   assetsDir:'static',
   filenameHashing:true, // false 来关闭文件名哈希
   lintOnSave: false, // 关闭eslint
