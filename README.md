@@ -1,6 +1,6 @@
 <b>漫威Xmanv</b>
 
-**A magical vue element touzi admin.**
+**A magical vue element **
 
 - [效果演示地址](http://47.103.50.44:5675/)
 
