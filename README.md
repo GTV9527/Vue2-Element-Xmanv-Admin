@@ -2,7 +2,7 @@
 
 **A magical vue element **
 
-- [效果演示地址](http://47.103.50.44:5675/)
+- [效果演示地址](http://cms.xmanv.com)
 
 ## 技术栈
 
